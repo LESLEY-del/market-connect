@@ -1,0 +1,12 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif;background:#F1F5F9;color:#0F172A}
+header{background:#0F766E;color:#fff;padding:22px 16px;text-align:center;border-radius:0 0 24px 24px}
+header h1{margin:0;font-size:24px}header p{margin:4px 0 0;color:#CCFBF1}
+main{max-width:480px;margin:18px auto;padding:0 14px}
+.card{background:#fff;border-radius:16px;padding:18px;margin-bottom:14px;box-shadow:0 2px 8px #0001}
+h2{margin:0 0 10px;font-size:18px}label{display:block;font-size:13px;color:#475569;margin:10px 0 4px}
+input{width:100%;padding:12px;border:1px solid #CBD5E1;border-radius:10px;font-size:16px}
+button{width:100%;margin-top:14px;padding:13px;border:0;border-radius:12px;background:#0F766E;color:#fff;font-size:16px;font-weight:700;cursor:pointer}
+button.amber{background:#F59E0B}button.grey{background:#64748B}button.small{width:auto;margin:4px 4px 0 0;padding:7px 12px;font-size:13px}
+.badge{display:inline-block;padding:4px 10px;border-radius:20px;font-size:13px;font-weight:700}
+.ok{background:#DCFCE7;color:#166534}.wait{background:#FEF3C7;color:#92400E}.bad{background:#FEE2E2;color:#991B1B}
+.err{color:#B91C1C;font-size:14px;margin-top:8px}.muted{color:#64748B;font-size:14px}.hide{display:none}
